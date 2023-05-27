@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Roman Indermühle
 - 👀 I’m interested in ... Photography, filming, design, Swift
 - 🌱 I’m currently learning ... Swift and SwiftUI
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... roman.indermuehle@icloud.com
 
 <!---
